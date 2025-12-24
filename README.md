@@ -1,8 +1,8 @@
-# breast-cancer-dbms-analysis
+# Breast-cancer-dbms-analysis
 SQL and Python-based analysis of protein expression and treatment outcomes in breast cancer patients.
 # Protein Expression and Treatment Outcomes in Breast Cancer
 
-This project investigates the relationship between protein expression patterns, diagnostic features, and treatment outcomes in breast cancer patients. It uses a structured SQL database and data analysis in Python to identify potential biomarkers and evaluate clinical interventions.
+This project examines the relationship between protein expression patterns, diagnostic features, and treatment outcomes in patients with breast cancer. It uses a structured SQL database and data analysis in Python to identify potential biomarkers and evaluate clinical interventions.
 
 ---
 
@@ -53,14 +53,15 @@ Key features:
 
 - `breast_cancer_dbms_analysis.ipynb`: Python notebook with queries and visualizations
 - `dbms_final_Presentation.pdf`: Project presentation slides
-- `ProjectReport_LakshmiMenon.docx`: Detailed report on database design and analytics
+- `Final_Report_Pooja_Manikonda.docx.pdf`: Detailed project report on database design and analytics
 - `README.md`: This summary file
 
 ---
 
 ## 📌 Note
 
-This is a completed academic project. All results, visualizations, and SQL queries are included in the provided files. No re-running is necessary unless you wish to reproduce the setup using your own MySQL environment.
+This is a completed academic project. All results, visualizations, and SQL queries are included in the provided files.
+No re-running is necessary unless you wish to reproduce the setup using your own MySQL environment.
 
 ---
 
